@@ -441,11 +441,11 @@ body {
 }
 
 .hero-photo {
-  width: 405px;
-  height: 520px;
-  transform: translateX(-80px);
-  border-radius: 50px;
-  /* margin-top: 40px; */
+  width: 90%;
+  height: auto;
+  transform: none;
+  margin: 0 auto;
+  border-radius: 25px;
 }
 
 .hero-gallery {
