@@ -118,7 +118,7 @@ export const Projects = () => {
                     <span>React</span>
                     <span>TailwindCSS</span>
                 </div>
-                <a href="https://github.com/kmod24/portfolio-website" target="_blank" rel="noreferrer">
+                <a href="https://portfolio-website-bice-ten-71.vercel.app" target="_blank" rel="noreferrer">
                 <p className="visit-arrow">Visit →</p>
                 </a>
             </motion.div>
