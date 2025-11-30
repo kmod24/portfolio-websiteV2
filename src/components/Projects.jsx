@@ -132,7 +132,7 @@ export const Projects = () => {
         >
 
             <motion.div>
-                <h3>Website v2</h3>
+                <h3>Website v2 (this one)</h3>
                 <p className="project-caption">Website v2 using ReactJS & TailwindCSS
                 </p>
                 <div className="project-tech">
