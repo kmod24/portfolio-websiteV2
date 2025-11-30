@@ -383,16 +383,24 @@ body {
 
   .hero {
     padding: 0 1.5rem;
+    min-height: auto;
+  }
+
+  .hero-container {
+    padding-top: 80px;               
+    gap: 2rem;
   }
 
   .hero-title {
     font-size: 2.4rem;
-    margin-top: -1.5rem;
+    /* margin-top: -1.5rem; */
+    margin-top: 0;  
   }
 
   .hero-box {
-    padding: 1.5rem;
+    padding: 1.25rem 1.25rem;
     margin-top: 1.5rem;
+    max-width: 100%;
   }
 
   .hero-bottom {
