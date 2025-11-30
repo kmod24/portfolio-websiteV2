@@ -232,7 +232,6 @@ body {
   left: 100%;
 }
 
-/* Social links inside hero-box */
 
 .social-links {
   display: flex;
@@ -360,19 +359,110 @@ body {
     margin-left: 0;
     margin-right: 0;
   }
+
+  .blogs-box {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 /* when mobile phone is used (768 px) */
+
 @media (max-width: 768px) {
+  .navbar {
+    padding: 1rem 1.5rem;
+    transform: translateX(0);
+    justify-content: center;
+    align-items: center;
+  }
+
+  .nav-links {
+    gap: 1rem;
+    font-size: 0.9rem;
+  }
+
+  .hero {
+    padding: 0 1.5rem;
+  }
+
+  .hero-title {
+    font-size: 2.4rem;
+    margin-top: -1.5rem;
+  }
+
+  .hero-box {
+    padding: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  .hero-bottom {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-bottom-left,
+  .hero-bottom-right {
+    width: 100%;
+  }
+
   .code-display {
     height: auto;
+    margin-top: -2rem;
   }
 
   .floating-card {
     position: static;
-    margin-top: 1rem;
+    margin-top: -3rem;
+    margin-bottom: 3rem;
+  }
+
+  .hero-photo {
+    width: 100%;
+    max-width: 320px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 25px;
+  }
+
+  .hero-gallery {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .gallery-photo {
+    height: 220px;
+  }
+
+  .blogs {
+    padding: 6rem 1.5rem 10rem;
+  }
+
+  .blogs-box {
+    padding: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+
+  .hobbies {
+    padding: 8rem 1.5rem 12rem;
+  }
+
+  .bulletin-board {
+    width: 100%;
+    max-width: 340px;
+    transform: none;
+    margin-top: 2rem;
+  }
+
+  .bulletin-board .gallery-photo {
+    width: 100%;
+    height: auto;            
   }
 }
+
+
+
+
 
 
 /* Projects section */
@@ -517,11 +607,11 @@ a:visited {
   border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 2rem;
   border-radius: 20px;
-  width: 800px;
-  /* min-width: 80px; */
+  max-width: 800px;
   height: 70px;
   margin-top: 1rem;
   cursor: pointer;
+
 }
 
 .blog-caption {
@@ -560,11 +650,26 @@ a:link {
 
 .bulletin-board {   
   position: relative;    
-  width: auto;
+  width: 100%;
+  max-width: 480px;
   height: auto;
   display: inline-block;  
   transform: scale(1.6);
   margin-top: 4rem;
+}
+
+@media (max-width: 768px) {
+  .bulletin-board {
+    width: 100%;
+    max-width: 500px;
+    transform: none;
+    margin-top: 2rem;
+  }
+
+  .bulletin-board .gallery-photo {
+    width: 100%;
+    height: auto;
+  }
 }
 
 

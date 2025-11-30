@@ -139,7 +139,7 @@ export const Projects = () => {
                     <span>ReactJs</span>
                     {/* <span>TailwindCSS</span> */}
                 </div>
-                <a href="" target="_blank" rel="noreferrer">
+                <a href="https://github.com/kmod24/portfolio-websiteV2" target="_blank" rel="noreferrer">
                 <p className="visit-arrow">Visit →</p>
                 </a>
             </motion.div>
