@@ -12,9 +12,11 @@ export const BlogPost = () => {
       <div>
         <p className="blog-caption blog-post">{post.title}</p>
         <p className="blog-date">{post.date}</p>
-        <p className="blog-content">
-          {post.content}
-        </p>
+        <div className="blog-content">
+      {post.content.split("\n\n").map((para, i) => (
+        <p key={i} dangerouslySetInnerHTML={{ __html: para.trim() }} />
+      ))}
+    </div>
       </div>
     </section>
   );
