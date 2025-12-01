@@ -28,7 +28,7 @@ export const posts = [
     I met a bunch of friends from around the world -- Switzerland, Netherlands, South Korea, and even some exchange student
     friends from USA. We all connected very quickly, and we traveled together during the month of March and
     explored Japan as a group. We went to out first Izakayas, went to Tokyo and embarked on huge
-    shopping sprees, and prepared for the Cherry Blossoms which was almost in full bloom. Our school
+    shopping sprees, and prepared for the cherry blossoms which was almost in full bloom. Our school
     semester would start in April, so we tried our best to spend our time as much as we could and explore Japan before all of us 
     would be occupied with school.
 
