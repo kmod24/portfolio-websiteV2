@@ -746,13 +746,18 @@ a:link {
 
 .image-row {
   display: flex;
-  gap: 1rem;       /* space between the images */
+  flex-wrap: wrap;       
+  gap: 1rem;
   justify-content: center;
 }
 
 .image-row img {
+  width: 100%;            
+  max-width: 250px;      
+  height: auto;           
   object-fit: cover;
-  height: 250px;
+  border-radius: 10px;
 }
+
 
 
