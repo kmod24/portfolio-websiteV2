@@ -33,8 +33,26 @@ export const posts = [
     would be occupied with school.
 
     <p class="section-title">APRIL:</p>
-    To be continued.
+    April was full of memories and friendships began to bloom like cherry blossoms. After our first trip to Tokyo,
+    we quickly headed back to Ibaraki, Osaka and slowly prepared for our upcoming semester. I would occasionally go
+    to Dotonbori and even at the big malls to shop for clothes. Me and Weibo began our rock climbing journey, and although
+    I was hesitant at first, I can confidently say that it has definitely been one of the best experiences so far. I slowly began to adjust
+    myself to the lifestyle; I always rode my bike back and forth to and from campus, and some days where I would
+    just go straight to Kyoto after school had ended.
+
+    <div class="image-row">
+    <img src="/images/rainpark.png" class="blog-image" />
+    <img src="/images/mecherry.png" class="blog-image" />
+    <img src="/images/rock.png" class="blog-image" />
+    <img src="/images/manga.png" class="blog-image" />
+      </div>
     
+      My Japanese began to improve, and I felt comfortable holding conversations with Japanese people. School wasn't
+      stressful, and I would spend my most of my time at the FamilyMart by the dorm trying new drinks and snacks. Life
+      was good, and it all still felt surreal to me. The Japanese people at our rock climbing gym taught me many
+      techniques that helped me improve, and I even learned Kansai-ben (Osaka Slang) from them. 
+
+
     <p class="section-title">MAY:</p>
     To be continued.
 
