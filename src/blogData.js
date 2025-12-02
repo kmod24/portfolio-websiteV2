@@ -1,8 +1,8 @@
 export const posts = [
   {
     slug: "abroad-in-japan",
-    title: "my exchange program in japan🇯🇵",
-    date: "November 29, 2025",
+    title: "my exchange program in japan 🇯🇵",
+    date: "Last updated December 1, 2025",
     content: `
      During my Spring semester of college, I decided to go abroad and do an exchange program in Osaka, Japan. Many thoughts filled
      my head -- I would be going alone, I wasn't the best at speaking Japanese, and I would pretty much be on my own figuring things
@@ -34,7 +34,18 @@ export const posts = [
 
     <p class="section-title">APRIL:</p>
     To be continued.
+    
+    <p class="section-title">MAY:</p>
+    To be continued.
 
+    <p class="section-title">JUNE:</p>
+    To be continued.
+
+    <p class="section-title">JULY:</p>
+    To be continued.
+
+    <p class="section-title">AUGUST:</p>
+    To be continued.
 
 
 
@@ -43,10 +54,10 @@ export const posts = [
   }, 
   {
     slug: "my-thoughts-and-ideas",
-    title: "thoughts and ideas",
+    title: "thoughts, ideas, now",
     date: "November 29, 2025",
     content: `Although I'm occupied with school, there are many things that I have been doing to keep my mind occupied, 
-    such as studying Japanese (N4 Level currently) and coding fun projects to make life easier. `,
+    such as studying Japanese (N4 Level currently) and coding fun projects to make life easier for myself. `,
   },
   // {
   //   slug: "travel-experiences",
