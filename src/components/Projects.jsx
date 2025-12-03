@@ -133,10 +133,10 @@ export const Projects = () => {
 
             <motion.div>
                 <h3>Website v2 (this one)</h3>
-                <p className="project-caption">Website v2 using ReactJS & TailwindCSS
+                <p className="project-caption">Website v2, focuses on simplicity
                 </p>
                 <div className="project-tech">
-                    <span>ReactJs</span>
+                    <span>ReactJS</span>
                     {/* <span>TailwindCSS</span> */}
                 </div>
                 <a href="https://github.com/kmod24/portfolio-websiteV2" target="_blank" rel="noreferrer">
