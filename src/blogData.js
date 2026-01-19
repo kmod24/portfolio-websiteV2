@@ -1,5 +1,19 @@
 export const posts = [
   {
+    slug: "newyear",
+    title: "my new years resolutions",
+    date: "January 1, 2026",
+    content: `2025 was a year full of life-changing experiences and memorable moments. I managed to step out of comfort zone
+    and make more spontaneous decisions. I lived in Japan, made lifelong friends, and learned how to be more independent. This year
+    truly was one of the best I've had and I hope that 2026 treats me well.
+    
+    
+    
+    
+    `,
+  },
+  {
+    
     slug: "abroad-in-japan",
     title: "my exchange program in japan 🇯🇵",
     date: "Last updated December 1, 2025",
@@ -54,7 +68,13 @@ export const posts = [
 
 
     <p class="section-title">MAY:</p>
-    To be continued.
+    During the month of may, we went to South Korea during Golden Week. We explored all around Seoul -- exploring the bustling
+    night life in Hongdae, walking around Myeongdong and eating street food, and even visiting Suwon to explore the culture and
+    popular K-drama spots 😆. We went crazy over the Korean fried chicken (BHC, BBQ chicken, etc), and the korean bbq was amazing.
+    We visited all of the touristy spots, but South Korea overall is definitely different compared to Japan.
+
+
+    
 
     <p class="section-title">JUNE:</p>
     To be continued.
@@ -75,7 +95,14 @@ export const posts = [
     title: "thoughts, ideas, now",
     date: "November 29, 2025",
     content: `Although I'm occupied with school, there are many things that I have been doing to keep my mind occupied, 
-    such as studying Japanese (N4 Level currently) and coding fun projects to make life easier for myself. `,
+    such as studying Japanese (N4 Level currently) and coding fun projects to make life easier for myself. 
+    
+    I have a coffee shop addiction and I lowkey need to save money. Also, I've been rock climbing a lot recently and it's been
+    fun, especially with friends.
+    
+    
+    
+    `,
   },
   // {
   //   slug: "travel-experiences",

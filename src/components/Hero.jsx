@@ -64,7 +64,7 @@ export const Hero = () => {
               <a href="https://github.com/kmod24" target="_blank" rel="noreferrer">
                 <i className="fab fa-github"></i> GitHub
               </a>
-              <a href="https://discordapp.com/users/kmod." target="_blank" rel="noreferrer">
+              <a href="https://discord.gg/eUkyDFuS" target="_blank" rel="noreferrer">
                 <i className="fab fa-discord"></i> Discord
               </a>
               <a href="https://open.spotify.com/user/kwlsn2w8kn5r7d7jbxedhoyir" target="_blank" rel="noreferrer">
