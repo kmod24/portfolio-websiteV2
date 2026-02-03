@@ -15,6 +15,7 @@ const fadeInUp = {
 export const Hobbies = () => {
     return (
         <section className="hobbies" variants={fadeInUp}>
+            {/* <h3 className="hobbies-h3"> Click on an image to view!</h3> */}
             <motion.div className="bulletin-board">
             <img src={moodboard} alt="Moodboard" className="gallery-photo" />
 

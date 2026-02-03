@@ -69,9 +69,9 @@ export const posts = [
 
     <p class="section-title">MAY:</p>
     During the month of may, we went to South Korea during Golden Week. We explored all around Seoul -- exploring the bustling
-    night life in Hongdae, walking around Myeongdong and eating street food, and even visiting Suwon to explore the culture and
-    popular K-drama spots 😆. We went crazy over the Korean fried chicken (BHC, BBQ chicken, etc), and the korean bbq was amazing.
-    We visited all of the touristy spots, but South Korea overall is definitely different compared to Japan.
+    night life in Hongdae, walking around Myeongdong and eating amazing street food, and even visiting Suwon to explore the culture and
+    visit several famous K-drama spots 😆. We loved the Korean fried chicken (BHC, BBQ chicken, etc), and the Korean BBQ was amazing.
+    We definitely visited all of the touristy spots, though it did still feel quite different from Japan as a country.
 
 
     

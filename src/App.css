@@ -468,6 +468,12 @@ body {
     padding: 8rem 1.5rem 12rem;
   }
 
+  .hobbies-h3 {
+    color: #000;
+    text-align: center;
+    margin-top: 150;
+  }
+  
   .bulletin-board {
     width: 100%;
     max-width: 340px;
