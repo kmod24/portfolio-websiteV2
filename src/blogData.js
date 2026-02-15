@@ -68,15 +68,37 @@ export const posts = [
 
 
     <p class="section-title">MAY:</p>
-    During the month of may, we went to South Korea during Golden Week. We explored all around Seoul -- exploring the bustling
-    night life in Hongdae, walking around Myeongdong and eating amazing street food, and even visiting Suwon to explore the culture and
-    visit several famous K-drama spots 😆. We loved the Korean fried chicken (BHC, BBQ chicken, etc), and the Korean BBQ was amazing.
+    During the month of May, my friends and I went to South Korea during Golden Week (a three day weekend I think). We explored all around Seoul -- exploring the bustling
+    night life in Hongdae, walking around Myeongdong and eating amazing street food, and even visiting Suwon to explore the culture as well
+    as visiting several famous K-drama spots 😆. We loved the Korean fried chicken (BHC, BBQ chicken, etc), and the Korean BBQ was amazing.
     We definitely visited all of the touristy spots, though it did still feel quite different from Japan as a country.
+    
+    <div class="image-row">
+    <img src="/images/korpokemon.jpg" class="blog-image" />
+    <img src="/images/lovelyrunner.jpg" class="blog-image" />
+    <img src="/images/4ds.jpg" class="blog-image" />
+    <img src="/images/omeruball.jpg" class="blog-image" />
+      </div>
+
+      Korea felt a lot more westernized and it felt like being in K-Town Los Angeles again, lol. I enjoyed the overall vibes and it was
+      definitely more lively and felt a bit more romantic with all the couples being around. After coming back to Japan, many midterms 
+      and tests came up so I was occupied with that. I continued to improve my Japanese and learned more about the different perspectives
+      of Computer Science and technology with other foreign students sharing their viewpoints. I also joined a basketball circle -- also known as a
+      club -- and I was able to play basketball with other students! Luckily I brought my basketball shoes, and the style of play felt more different
+      compared to the usual back in the States. Me, Weibo, Ati, and Liam also went on the hunt for Nintendo 3ds', and luckily we were all
+      able to snag one each for the right price :) We went to izakayas every other night to celeberate our studies, and overall we 
+      enjoyed the lifestyle together, spending core memories and trying new experiences. May was probably one of my favorite months...
+
 
 
     
 
     <p class="section-title">JUNE:</p>
+    June was full of memories and the weather began to become more humid and warm. I began to become more occupied with school -- 
+    I would still occassionally go on day trips alone to Kyoto or just do some more shopping in Osaka. I visited an abandoned tunnel
+    with my friend Max from Switzerland, and that was a great experience. I continued to put the effort in learning Japanese, and 
+    school was my main priority. I also was able to visit Miyazu, which was North of Kyoto.
+
     To be continued.
 
     <p class="section-title">JULY:</p>
