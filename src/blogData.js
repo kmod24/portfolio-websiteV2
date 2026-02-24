@@ -81,23 +81,23 @@ export const posts = [
       </div>
 
       Korea felt a lot more westernized and it felt like being in K-Town Los Angeles again, lol. I enjoyed the overall vibes and it was
-      definitely more lively and felt a bit more romantic with all the couples being around. After coming back to Japan, many midterms 
+      definitely more lively & romantic with the amount of cafes and couples around. After coming back to Japan, many midterms 
       and tests came up so I was occupied with that. I continued to improve my Japanese and learned more about the different perspectives
-      of Computer Science and technology with other foreign students sharing their viewpoints. I also joined a basketball circle -- also known as a
+      of Computer Science and technology with other foreign students also sharing their viewpoints. I also joined a basketball circle -- also known as a
       club -- and I was able to play basketball with other students! Luckily I brought my basketball shoes, and the style of play felt more different
-      compared to the usual back in the States. Me, Weibo, Ati, and Liam also went on the hunt for Nintendo 3ds', and luckily we were all
-      able to snag one each for the right price :) We went to izakayas every other night to celeberate our studies, and overall we 
-      enjoyed the lifestyle together, spending core memories and trying new experiences. May was probably one of my favorite months...
+      compared to the usual back in the States. Me, Weibo, Ati, and Liam also went on the hunt for Nintendo 3Ds', and luckily we were all
+      able to snag one each for a good price :) We went to izakayas every other night to celeberate our studies, and overall we 
+      enjoyed the lifestyle together, spending core memories and trying new experiences. May was probably one of my favorite months out of all of them ...
 
 
-
+    
     
 
     <p class="section-title">JUNE:</p>
     June was full of memories and the weather began to become more humid and warm. I began to become more occupied with school -- 
     I would still occassionally go on day trips alone to Kyoto or just do some more shopping in Osaka. I visited an abandoned tunnel
-    with my friend Max from Switzerland, and that was a great experience. I continued to put the effort in learning Japanese, and 
-    school was my main priority. I also was able to visit Miyazu, which was North of Kyoto.
+    with my friend Max from Switzerland, and that was a great experience. I continued to put in effort towards learning Japanese, and 
+    school was my main priority. I also was able to visit Miyazu, which was north of Kyoto.
 
     To be continued.
 
