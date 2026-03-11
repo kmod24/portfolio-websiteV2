@@ -471,7 +471,7 @@ body {
   .hobbies-h3 {
     color: #000;
     text-align: center;
-    margin-top: 150;
+    margin-top: 150px;
   }
   
   .bulletin-board {
@@ -675,6 +675,17 @@ a:link {
   padding: 10rem 5% 16rem;
 }
 
+.hobbies-subtitle {
+  color: #000;
+  text-align: center;
+  margin: 0 0 0.5rem 0;
+  font-size: 0.95rem;
+  font-weight: bold;
+  letter-spacing: 0.02em;
+  margin-top: -2rem;
+  margin-left: -2rem;
+}
+
 .bulletin-board {   
   position: relative;    
   width: 100%;
@@ -682,7 +693,7 @@ a:link {
   height: auto;
   display: inline-block;  
   transform: scale(1.6);
-  margin-top: 4rem;
+  margin-top: 7rem;
 }
 
 @media (max-width: 768px) {
