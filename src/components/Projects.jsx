@@ -66,6 +66,28 @@ export const Projects = () => {
         >
 
             <motion.div>
+                <h3>POKEr Buy-in Tracker</h3>
+                <p className="project-caption">Bento-box inspired buy-in tracker for tracking buy-ins and pot amounts for poker games
+                </p>
+                <div className="project-tech">
+                    <span>Next.js</span>
+                    <span>Typescript</span>
+                    <span>JavaScript</span>
+                    <span>CSS</span>
+                </div>
+                <a href="https://pok-er-buyintracker.vercel.app/" target="_blank" rel="noreferrer">
+                <p className="visit-arrow">Visit →</p>
+                </a>
+            </motion.div>
+        </motion.div>
+
+        <motion.div 
+        className="project-card"
+        variants={fadeInUp}
+        whileHover={{ y: -10, transition: { duration: 0.2} }}
+        >
+
+            <motion.div>
                 <h3>Moodboard</h3>
                 <p className="project-caption">Turns a few words into a moodboard such as songs, images, coffees, outfits, & more
                 </p>
@@ -114,7 +136,7 @@ export const Projects = () => {
                 <p className="project-caption">My very first website using NextJS & TailwindCSS
                 </p>
                 <div className="project-tech">
-                    <span>NextJS</span>
+                    <span>Next.js</span>
                     <span>React</span>
                     <span>TailwindCSS</span>
                 </div>
